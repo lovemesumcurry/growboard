@@ -419,7 +419,9 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(USB1-VBUS)": "VCC"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -467,6 +469,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "b0f30cdf-06cf-4748-b16a-8913565233b5",
+      ""
+    ]
+  ],
   "text_variables": {}
 }
